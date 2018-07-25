@@ -1,0 +1,87 @@
+.top{
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    color: whitesmoke;
+    font-size: 72px;
+   padding-bottom: 20px;
+        margin: auto
+}
+
+#two{
+
+    text-align: center;
+    font-family: 'Unica One', cursive;
+    color: whitesmoke;
+    font-size: 26px;
+    
+    
+}
+p{
+    margin:auto
+}
+h3{
+    margin:auto;
+    width: 540px;
+}
+
+body{
+
+    background-color: rgb(53, 53,53);
+    color: whitesmoke;
+}
+
+
+.watch_container{
+    border: 2px solid #fdefa6;
+    clear: left;
+    border-radius: 13px;
+    display: inline-block;
+  background-color: #1a1818;
+margin-bottom: 15px;
+margin-right: 50px;
+margin-left: 50px;
+
+}
+
+
+.text h2{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+   
+}
+
+
+.watch_description{
+    font-family: 'Dosis', sans-serif;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    margin: auto;
+
+}
+
+.watch_container img{
+    height: 200px;
+    
+    float: left;
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+footer{
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+
